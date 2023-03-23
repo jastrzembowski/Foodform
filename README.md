@@ -21,7 +21,7 @@ Go to the project directory:
 cd foodform
 ```
 Install dependencies:
-````
+```
 yarn
 ```
 Start the server:
